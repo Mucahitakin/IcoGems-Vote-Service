@@ -1,4 +1,4 @@
-# ICOGEMS Vote Bot
+# ICOGEMS Vote Service
 
 ## Description
 This Node.js application sends multiple GET requests to the ICOGEMS voting page using ScraperAPI to simulate voting.
